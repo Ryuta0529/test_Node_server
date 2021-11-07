@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+}
+img {
+  width: 150px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid red;
+}
+
+button {
+  padding: 7px;
+  border: 1px solid red;
+  background-color: green;
+}
